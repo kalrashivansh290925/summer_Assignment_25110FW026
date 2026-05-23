@@ -1,3 +1,5 @@
+// WAP to calculate sum of first N natural numbers
+
 #include <stdio.h>
 
 int main()
@@ -13,4 +15,4 @@ int main()
     printf("The sum of first N natural numbers is : %d", sum);
 
     return 0;
-}
+};
