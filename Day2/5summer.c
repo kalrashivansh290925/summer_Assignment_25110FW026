@@ -17,5 +17,5 @@ int main(){
 
     printf("The sum of digits in %d is %d", num, sum);
 
-    return 0;
+    return 0; 
 }
