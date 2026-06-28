@@ -36,5 +36,5 @@ int main(){
     else
         printf("The entered range is not valid. \n");
 
-    
+    return 0;
 }
