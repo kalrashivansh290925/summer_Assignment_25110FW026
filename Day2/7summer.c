@@ -18,5 +18,5 @@ int main(){
 
     printf("The product of digits is : %d", prod);
 
-    return 0;
+    return 0; 
 } 

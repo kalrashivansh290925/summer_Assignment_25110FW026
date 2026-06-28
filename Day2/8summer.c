@@ -20,5 +20,5 @@ int main(){
     else
     printf("The number is not pallindrome");
 
-    return 0;
+    return 0; 
 }
